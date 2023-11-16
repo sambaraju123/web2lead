@@ -1,0 +1,27 @@
+form{
+    min-width: 300px;
+    max-width: 500px;
+    margin: auto;
+    border: 2px solid green;
+    padding: 15px;
+    background-image:radial-gradient(green, red);
+    }
+    h1{
+        text-align: center;
+    }
+    input,label{
+    display: block;
+    width: 80%;
+    height: 20px;
+    }
+    label{
+        color: green;
+    }
+    .submit{
+    width:30%;
+    margin: 15px auto 0 auto;
+    background-color: rgb(33, 33, 211);
+    border-radius: 5px;
+    height: 30px;
+    
+    }
